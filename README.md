@@ -100,8 +100,11 @@ simulated sample. Each row corresponds to a person.
 Columns contain the following iformation:
 
 1st: 		    Affection Status
+
 2nd:		    Covariate value
+
 3rd and 4th:	    Alleles at SNP 1
+
 5th and 6th:	    Alleles at SNP 2
 ...
 
